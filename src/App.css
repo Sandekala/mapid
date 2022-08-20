@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+.popup {
+  height: 150px;
+  width: 100px;
+  overflow: auto;
+  font-size: 10px;
+  margin: 10px;
+}
+.popup p {
+  margin: 5px;
+}
+.popup-data {
+  font-weight: bold;
+  font-size: 15px;
+}
+.my-red-icon {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #8b0000ff;
+}
+.my-yellow-icon {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #ffff00ff;
+}
+.my-green-icon {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #006400ff;
+}
